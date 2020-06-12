@@ -5,4 +5,4 @@ Even though there are packages in python such as mplscocer etc to make things ea
 
 I've tried to make things easy and simple to understand. But the secret behind learning everything is to experiment and try on your own. Play with the code and understand why it's done. All the best!
 
-Contact me in twitter: @SathishPrasadV1
+feel free to contact me in twitter: @SathishPrasadV1
